@@ -1,7 +1,7 @@
 # DataProfessionalSurvey
 This project explains the breakdown of data professional survey taken by 630 voters.
 
-The dashboard built aim at breakdown the survey taken by Data Professionals. 
+The dashboard built aim at explaining the breakdown of the survey taken by Data Professionals. 
 
 There are 630 Count ID of Survey Takers and with Average Age of 29.87.
 
